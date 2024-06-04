@@ -38,7 +38,7 @@ bool invX = false; // pan left/right
 bool invY = true; // pan up/down
 bool invZ = false; // zoom in/out
 bool invRX = true; // Rotate around X axis (tilt front/back)
-bool invRY = false; // Rotate around Y axis (tilt left/right)
+bool invRY = true; // Rotate around Y axis (tilt left/right)
 bool invRZ = true; // Rotate around Z axis (twist left/right)
 
 // Speed - Had to be removed when the V2 shorter range of motion. The logic reduced sensitivity on small movements. Use 3DConnexion slider instead for V2.
