@@ -47,9 +47,9 @@ bool invRZ = true; // Rotate around Z axis (twist left/right)
 int16_t speedX = 10; 
 int16_t speedY = 10; 
 int16_t speedZ = 10; 
-int16_t speedRX = 100; 
-int16_t speedRY = 100; 
-int16_t speedRZ = 100; 
+int16_t speedRX = 30; 
+int16_t speedRY = 30; 
+int16_t speedRZ = 30; 
 
 // Default Assembly when looking from above:
 //    C           Y+
